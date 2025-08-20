@@ -1,5 +1,5 @@
 # A-live-traded-micro-cap-stock-strategy
-Base on an powerful active factor among CHINESE TOP 5000 Universe.
+Base on an powerful active factor among CHINESE TOP 2000 Universe.
 
 The code presented here contains only the core of the small-cap factor, with a very simple logic that is, however, highly effective in practice. 
 
